@@ -24,5 +24,4 @@
 
 * 1/4 cup finely grated Pecorino (about 1 oz.)
 
-![image of Bucatini all'amatriciana]
-https://assets.bonappetit.com/photos/57afff221b33404414976058/16:9/w_2560,c_limit/bucatini-all-amatriciana.jpg 
+![image of Bucatini all'amatriciana](https://assets.bonappetit.com/photos/57afff221b33404414976058/16:9/w_2560,c_limit/bucatini-all-amatriciana.jpg) 
